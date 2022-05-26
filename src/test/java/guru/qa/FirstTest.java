@@ -10,7 +10,7 @@ public class FirstTest {
 
     @Test
     void secondtest(){
-        Assertions.assertTrue(3 >1);
+        Assertions.assertTrue(4 >1);
     }
 
 }
